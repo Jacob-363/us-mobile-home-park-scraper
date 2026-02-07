@@ -31,5 +31,5 @@ The output is written to a CSV file for easy inspection and analysis.
 ## Example Output
 ```csv
 Park Name,Address,Space Count,Phone Number
-Pineview/Cloverleaf Mobile Home Park,"3309 Main Street, Adamsville, AL, 35005, US",,205-674-0222
-Daisy City Mobile Home Park,"Adamsville, AL, 35005-0147, US",,205-674-6130
+Pineview/Cloverleaf Mobile Home Park,"3309 Main Street, Adamsville, AL, 35005, US",8,205-674-0222
+Daisy City Mobile Home Park,"Adamsville, AL, 35005-0147, US",15,205-674-6130
