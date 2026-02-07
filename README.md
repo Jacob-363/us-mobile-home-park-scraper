@@ -18,7 +18,7 @@ For each mobile home park listing, the scraper attempts to collect:
 - Park name  
 - Address  
 - Space (lot) count (if available)  
-- Phone number  
+- Phone number (if available) 
 
 The output is written to a CSV file for easy inspection and analysis.
 
